@@ -1,0 +1,14 @@
+
+.p{text-align: center;background-color:
+    rgb(19, 19, 25);color: purple;box-sizing: border-box;}  
+#dov{
+    display: flex;
+    justify-content: center;
+
+}
+img,p {display: inline-block;}
+body {
+background-color: rgb(215, 35, 116);
+}
+p{text-align: center;color: aliceblue; font-family: 'Courier New', Courier, monospace;
+font-size: 20px;}
